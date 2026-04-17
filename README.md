@@ -72,6 +72,3 @@ An interactive dashboard is built using Streamlit which includes:
 - Scikit-learn
 - Streamlit
 
----
-
-## 📂 Project Structure
